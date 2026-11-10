@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "encore-local": {
+            "args": [
+                "mcp",
+                "run",
+                "--app=ah54a"
+            ],
+            "command": "encore"
+        }
+    }
+}
